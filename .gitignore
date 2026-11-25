@@ -155,3 +155,9 @@ vite.config.ts.timestamp-*
 .nx/cache
 .nx/workspace-data
 .nx/migrate-runs
+
+.env
+.sprite
+*.har
+runs/
+node_modules/
